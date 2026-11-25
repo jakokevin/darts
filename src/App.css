@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f8f9fa;
+  color: #212529;
+  font-family: Arial, sans-serif;
+}
+
+.card, .btn, .form-control {
+  border-radius: 5;
+}
